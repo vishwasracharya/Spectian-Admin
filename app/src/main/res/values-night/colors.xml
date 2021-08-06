@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textColor">#FFFFFFFF</color>
+
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+
+    <color name="lightGray">#c1c1c1</color>
+
+    <color name="Grey">#F8F8F8</color>
+    <color name="smoke">#181818</color>
+</resources>

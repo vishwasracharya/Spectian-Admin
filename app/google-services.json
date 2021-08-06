@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808478662635",
+    "project_id": "adminapp-f11cf",
+    "storage_bucket": "adminapp-f11cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808478662635:android:4e2bc338b3c4b40deac3ae",
+        "android_client_info": {
+          "package_name": "com.example.spectianadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808478662635-lhskffgqoh6pckr3rrssih5hadgh4vi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNCVcF5_6P0uKrxwaUNoXqAGGllUk69k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808478662635-lhskffgqoh6pckr3rrssih5hadgh4vi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
