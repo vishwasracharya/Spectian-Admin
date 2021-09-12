@@ -31,15 +31,28 @@ This Android application is the admin part of the application called spectian, T
   
 I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule make You-Tube videos, Podcast, Blogs and more...
 
-  
-## 🔗 Links
-[![youtube](https://image.flaticon.com/icons/png/24/1384/1384060.png)](https://www.youtube.com/c/VishwasAcharya)
-
-[![linkedin](https://image.flaticon.com/icons/png/24/1384/1384062.png)](https://www.linkedin.com/in/vishwasracharya)
-
-[![instagram](https://image.flaticon.com/icons/png/24/174/174855.png)](https://www.instagram.com/vishwasracharya)
-
-[![twitter](https://image.flaticon.com/icons/png/24/889/889147.png)](https://www.twitter.com/vishwasracharya)
+### Connect with me
+  <a href="https://twitter.com/vishwasracharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/vishwasracharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/vishwasracharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://t.me/vishwasacharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a>&ensp;
+  <a href="https://youtube.com/c/VishwasAcharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+  </a>&ensp;
+  <a href="https://snapchat.com/add/vishwasracharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/snapchat/snapchat-icon.svg" />
+  </a>&ensp;
+  <a href="https://facebook.com/vishwasracharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+  </a>
 
 ## Acknowledgements
 
