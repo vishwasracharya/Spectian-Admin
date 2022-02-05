@@ -9,14 +9,11 @@
 
 This Android application is the admin part of the application called spectian, This is basically where the administrator and faculties of the college will handle this app to upload assignments, notices, book PDF's and all.
 
-
-
 ## Features
 
 - Light/dark mode
 - CRUD operations on every feature (Notice, E-Book, Assignment, Faculty, Gallery)
-
-  
+ 
 ## Demo
 
 **Demo:** https://drive.google.com/file/d/104MwoENw8NGS6G1Yeccwff97UKY0oNe0/view?usp=sharing
@@ -29,10 +26,19 @@ This Android application is the admin part of the application called spectian, T
 
 **Database:** Firebase
 
-  
-# Hi, I'm Vishwas Acharya! 👋
+## How to use it?
+- `Clone` this repo into your system using 
+```
+git clone https://github.com/vishwasracharya/Spectian-Admin.git
+```
+- Open in Android Studio
+- Install the recommended gradle when asked
+- Select an emulator/Connect your Phone with `USB Debugging` `ON`
+- Now Click on Run
+- Then Application will automatically get `build` and `launch` itself.
 
   
+# Hi, I'm Vishwas Acharya! 👋
 I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule make You-Tube videos, Podcast, Blogs and more...
 
 ### Connect with me
