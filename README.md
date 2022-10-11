@@ -45,10 +45,10 @@ I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hus
   <a href="https://twitter.com/vishwasracharya">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/in/vishwasracharya">
+  <a href="https://linkedin.com/in/vishwasracharya">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.vishwasracharya.gitgub.io">
+  <a href="https://vishwasracharya.herokuapp.com">
     <img width="30px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
   </a>&ensp;
   <a href="https://www.instagram.com/vishwasracharya">
