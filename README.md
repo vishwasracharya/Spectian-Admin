@@ -7,7 +7,7 @@
 <a href="https://github.com/vishwasracharya/Spectian-Admin/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Spectian-Admin?color=orange"></a>
 <a href="https://github.com/vishwasracharya/Spectian-Admin/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vishwasracharya/Spectian-Admin?color=success"></a>
 
-This Android application is the admin part of the application called spectian, This is basically where the administrator and faculties of the college will handle this app to upload assignments, notices, book PDF's and all.
+This Android application is the admin part of the application called spectian, This is basically where the administrator and faculties of the college will handle this app to upload assignments, notices, book PDFs and all.
 
 ## Features
 
